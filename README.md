@@ -6,4 +6,4 @@
 
 - **Pipeline Flowchart:**
 
-    ![[***Health Indices Flowchart***]{.underline}](RESULTS/Flowchart_Health_Indices.png)
+    ![[***Health Indices Flowchart***]{.underline}](Flowchart_Health_Indices.png)
